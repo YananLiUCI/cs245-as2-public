@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # TODO: set this variable to your top level of Spark 2.3.3 installation
-SPARK_233_HOME=/path/to/your/spark-2.3.3-bin-hadoop2.7
+SPARK_233_HOME=/Users/yananli/IdeaProjects/cs245-as2-public/part1/SPARK_233_HOME
 
 if [ ! -d $SPARK_233_HOME ]
 then
